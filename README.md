@@ -363,7 +363,11 @@ The dashboard enables document control teams and project management to identify 
 ## Project Deliverable
 
 Project: Document Controller Dashboard
+
 Tool: Microsoft Power BI
+
 Domain: Document Control / Project Controls
+
 Dashboard Type: Interactive Management Dashboard
+
 Primary Purpose: Document Status, KPI, Trend and Aging Monitoring
