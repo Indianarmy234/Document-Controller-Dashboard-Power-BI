@@ -1,6 +1,6 @@
 # Document-Controller-Dashboard-Power-BI
 
-1. Project Overview
+# 1. Project Overview
 
 The Document Controller Dashboard is an interactive Power BI dashboard designed to monitor, analyze, and track project documentation activities.
 
@@ -20,7 +20,7 @@ Document aging analysis
 
 The dashboard is designed to support document control monitoring, management reporting, performance tracking, and timely decision-making.
 
-2. Dashboard Objectives
+# 2. Dashboard Objectives
 
 The main objectives of this dashboard are:
 
@@ -34,7 +34,9 @@ Track document control KPIs against predefined targets.
 Identify aging and delayed documents.
 Provide management with an interactive executive summary.
 Support document controllers in identifying areas requiring corrective action.
-3. Dashboard Pages
+
+
+# 3. Dashboard Pages
 
 The Power BI report contains the following pages:
 
@@ -61,7 +63,7 @@ Discipline
 
 This page is mainly designed for Project Managers, Document Control Managers, and Management.
 
-4. Project Wise Status
+# 4. Project Wise Status
 
 This page provides detailed analysis of document status by project.
 
@@ -90,7 +92,7 @@ Overdue Documents
 
 This page helps identify which projects are performing well and which projects require attention.
 
-5. Discipline Wise Analysis
+# 5. Discipline Wise Analysis
 
 This page analyzes documentation based on engineering and project disciplines.
 
@@ -122,7 +124,7 @@ Overdue %
 
 This page helps identify documentation performance at the discipline level.
 
-6. KPI Monitoring
+# 6. KPI Monitoring
 
 The KPI Monitoring page tracks document control performance against defined targets.
 
@@ -170,7 +172,7 @@ KPI Actual vs Target
 
 The KPI page allows management to quickly identify whether document control performance is meeting the required targets.
 
-7. Aging Analysis
+# 7. Aging Analysis
 
 The Aging Analysis page identifies documents based on their aging period.
 
@@ -199,7 +201,7 @@ Status
 
 This page helps document controllers prioritize old and overdue documents.
 
-8. Interactive Filters
+# 8. Interactive Filters
 
 The dashboard contains interactive slicers to allow users to analyze specific data.
 
@@ -212,7 +214,7 @@ Status
 
 Users can select one or multiple values to dynamically update the dashboard visuals.
 
-9. Key Data Fields
+# 9. Key Data Fields
 
 The dashboard is based on document control information such as:
 
@@ -229,14 +231,17 @@ Submission Date	Date document was submitted
 Approval Date	Date document was approved
 Rejection Date	Date document was rejected
 Aging Days	Number of days the document has remained pending/overdue
-10. Document Status Definitions
+
+# 10. Document Status Definitions
+
 Status	Description
 Approved	Document has successfully completed the approval process
 Submitted	Document has been submitted for review
 Under Review	Document is currently being reviewed
 Rejected	Document has been rejected and requires correction/resubmission
 Overdue	Document has exceeded the required processing/submission period
-11. Important Calculations
+
+# 11. Important Calculations
 
 The dashboard uses Power BI measures/calculations to calculate document control performance.
 
@@ -266,12 +271,14 @@ KPI Variance
 
 Difference between the actual KPI value and the predefined target.
 
-12. Technology Used
+# 12. Technology Used
+
 Microsoft Power BI Desktop
 Power Query – Data cleaning and transformation
 DAX – Measures and KPI calculations
 Power BI Visualizations – Charts, tables, cards and slicers
-13. Data Preparation
+
+# 13. Data Preparation
 
 The data preparation process includes:
 
@@ -285,7 +292,8 @@ Calculating document aging.
 Creating KPI-related fields.
 Creating DAX measures.
 Building relationships between relevant tables, where applicable.
-14. Dashboard Navigation
+
+# 14. Dashboard Navigation
 
 The dashboard can be navigated through the left-side menu:
 
@@ -293,7 +301,7 @@ Executive Summary → Project Wise Status → Discipline Analysis → KPI Monito
 
 Each page provides a different level of analysis, starting from management-level summary and moving toward detailed document-level information.
 
-15. Intended Users
+# 15. Intended Users
 
 This dashboard is suitable for:
 
@@ -305,7 +313,8 @@ Project Controls Teams
 Engineering Managers
 QA/QC Teams
 Management
-16. Business Benefits
+
+# 16. Business Benefits
 
 The dashboard provides the following benefits:
 
@@ -319,7 +328,8 @@ KPI-based performance measurement
 Improved management reporting
 Reduced manual reporting effort
 Data-driven decision making
-17. Assumptions
+
+# 17. Assumptions
 
 The following assumptions are considered for dashboard reporting:
 
@@ -329,7 +339,9 @@ Submission and approval dates are available where applicable.
 Aging is calculated based on the relevant document processing date.
 KPI targets are predefined and can be modified according to project requirements.
 Dashboard results depend on the accuracy and completeness of the source data.
-18. How to Use the Dashboard
+
+# 18. How to Use the Dashboard
+
 Open the Power BI report.
 Select the required dashboard page.
 Use the slicers at the top of the page.
@@ -339,7 +351,8 @@ Analyze the charts and trends.
 Use detailed tables to identify individual documents.
 Use the Aging Analysis page to prioritize overdue documents.
 Clear filters to return to the overall dashboard view.
-19. Conclusion
+
+# 19. Conclusion
 
 The Document Controller Dashboard provides an integrated and interactive solution for monitoring project documentation performance.
 
