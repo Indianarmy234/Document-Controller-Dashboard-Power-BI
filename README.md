@@ -44,22 +44,22 @@ Page 1 – Executive Summary
 
 The Executive Summary provides a high-level overview of the document control performance.
 
-Key Cards
-Total Documents
-Approved Documents
-Submitted Documents
-Documents Under Review
-Rejected Documents
-Overdue Documents
-Visualizations
-Status Distribution
-Monthly Submissions Trend
-Project Wise Documents
-Discipline Wise Documents
-Filters
-Project Name
-Client Name
-Discipline
+Key Cards<br>
+Total Documents<br>
+Approved Documents<br>
+Submitted Documents<br>
+Documents Under Review<br>
+Rejected Documents<br>
+Overdue Documents<br>
+Visualizations<br>
+Status Distribution<br>
+Monthly Submissions Trend<br>
+Project Wise Documents<br>
+Discipline Wise Documents<br>
+Filters<br>
+Project Name<br>
+Client Name<br>
+Discipline<br>
 
 This page is mainly designed for Project Managers, Document Control Managers, and Management.
 
@@ -67,28 +67,28 @@ This page is mainly designed for Project Managers, Document Control Managers, an
 
 This page provides detailed analysis of document status by project.
 
-Visualizations
-Document Status by Project
-Monthly Approval Trend
-Project Summary Table
-Monthly Submission Trend
-Project Status Categories
-Approved
-Submitted
-Under Review
-Rejected
-Overdue
-Project Summary
+Visualizations<br>
+Document Status by Project<br>
+Monthly Approval Trend<br>
+Project Summary Table<br>
+Monthly Submission Trend<br>
+Project Status Categories<br>
+Approved<br>
+Submitted<br>
+Under Review<br>
+Rejected<br>
+Overdue<br>
+Project Summary<br>
 
 The summary table provides project-wise information such as:
 
-Project Name
-Total Documents
-Approved Documents
-Submitted Documents
-Documents Under Review
-Rejected Documents
-Overdue Documents
+Project Name<br>
+Total Documents<br>
+Approved Documents<br>
+Submitted Documents<br>
+Documents Under Review<br>
+Rejected Documents<br>
+Overdue Documents<br>
 
 This page helps identify which projects are performing well and which projects require attention.
 
@@ -96,31 +96,31 @@ This page helps identify which projects are performing well and which projects r
 
 This page analyzes documentation based on engineering and project disciplines.
 
-Disciplines Covered
-Civil
-Electrical
-ELV
-Mechanical
-HSE
-QA/QC
-Visualizations
-Document Distribution by Discipline
-Discipline-wise Document Count
-Project-wise Status Details
-Detailed Table
+Disciplines Covered<br>
+Civil<br>
+Electrical<br>
+ELV<br>
+Mechanical<br>
+HSE<br>
+QA/QC<br>
+Visualizations<br>
+Document Distribution by Discipline<br>
+Discipline-wise Document Count<br>
+Project-wise Status Details<br>
+Detailed Table<br>
 
 The detailed table includes:
 
-Discipline
-Project Name
-Approved Documents
-Month
-Under Review
-Rejected Documents
-Overdue Documents
-Approval %
-Rejection %
-Overdue %
+Discipline<br>
+Project Name<br>
+Approved Documents<br>
+Month<br>
+Under Review<br>
+Rejected Documents<br>
+Overdue Documents<br>
+Approval %<br>
+Rejection %<br>
+Overdue %<br>
 
 This page helps identify documentation performance at the discipline level.
 
@@ -128,7 +128,7 @@ This page helps identify documentation performance at the discipline level.
 
 The KPI Monitoring page tracks document control performance against defined targets.
 
-KPIs
+KPIs<br>
 1. On-Time Submission
 
 Measures whether documents are submitted within the required timeframe.
@@ -165,10 +165,10 @@ Measures the level of overdue documentation.
 
 Target: 5% or lower
 
-Visualizations
-KPI Scorecard
-Monthly KPI Trend
-KPI Actual vs Target
+Visualizations<br>
+KPI Scorecard<br>
+Monthly KPI Trend<br>
+KPI Actual vs Target<br>
 
 The KPI page allows management to quickly identify whether document control performance is meeting the required targets.
 
@@ -176,28 +176,28 @@ The KPI page allows management to quickly identify whether document control perf
 
 The Aging Analysis page identifies documents based on their aging period.
 
-Aging Buckets
-0–30 Days
-31–60 Days
-61–90 Days
-91–120 Days
-121–180 Days
-180+ Days
-Visualizations
-Aging Bucket Analysis
-Aging Distribution
-Overdue Document Details
-Detailed Information
+Aging Buckets<br>
+0–30 Days<br>
+31–60 Days<br>
+61–90 Days<br>
+91–120 Days<br>
+121–180 Days<br>
+180+ Days<br>
+Visualizations<br>
+Aging Bucket Analysis<br>
+Aging Distribution<br>
+Overdue Document Details<br>
+Detailed Information<br>
 
 The overdue document table contains:
 
-Document Number
-Document Title
-Project Name
-Discipline
-Responsible Engineer
-Aging Days
-Status
+Document Number<br>
+Document Title<br>
+Project Name<br>
+Discipline<br>
+Responsible Engineer<br>
+Aging Days<br>
+Status<br>
 
 This page helps document controllers prioritize old and overdue documents.
 
@@ -205,12 +205,12 @@ This page helps document controllers prioritize old and overdue documents.
 
 The dashboard contains interactive slicers to allow users to analyze specific data.
 
-Available Filters
-Project
-Client
-Discipline
-Month
-Status
+Available Filters<br>
+Project<br>
+Client<br>
+Discipline<br>
+Month<br>
+Status<br>
 
 Users can select one or multiple values to dynamically update the dashboard visuals.
 
@@ -218,28 +218,28 @@ Users can select one or multiple values to dynamically update the dashboard visu
 
 The dashboard is based on document control information such as:
 
-Field	Description
-Document Number	Unique document identification number
-Document Title	Name/title of the document
-Project Name	Project associated with the document
-Client Name	Client associated with the project
-Discipline	Engineering/project discipline
-Status	Current document status
-Month	Submission/approval month
-Responsible Engineer	Person responsible for the document
-Submission Date	Date document was submitted
-Approval Date	Date document was approved
-Rejection Date	Date document was rejected
-Aging Days	Number of days the document has remained pending/overdue
+Field	Description<br>
+Document Number	Unique document identification number<br>
+Document Title	Name/title of the document<br>
+Project Name	Project associated with the document<br>
+Client Name	Client associated with the project<br>
+Discipline	Engineering/project discipline<br>
+Status	Current document status<br>
+Month	Submission/approval month<br>
+Responsible Engineer	Person responsible for the document<br>
+Submission Date	Date document was submitted<br>
+Approval Date	Date document was approved<br>
+Rejection Date	Date document was rejected<br>
+Aging Days	Number of days the document has remained pending/overdue<br>
 
 # 10. Document Status Definitions
 
-Status	Description
-Approved	Document has successfully completed the approval process
-Submitted	Document has been submitted for review
-Under Review	Document is currently being reviewed
-Rejected	Document has been rejected and requires correction/resubmission
-Overdue	Document has exceeded the required processing/submission period
+Status	Description<br>
+Approved	Document has successfully completed the approval process<br>
+Submitted	Document has been submitted for review<br>
+Under Review	Document is currently being reviewed<br>
+Rejected	Document has been rejected and requires correction/resubmission<br>
+Overdue	Document has exceeded the required processing/submission period<br>
 
 # 11. Important Calculations
 
@@ -273,25 +273,25 @@ Difference between the actual KPI value and the predefined target.
 
 # 12. Technology Used
 
-Microsoft Power BI Desktop
-Power Query – Data cleaning and transformation
-DAX – Measures and KPI calculations
-Power BI Visualizations – Charts, tables, cards and slicers
+Microsoft Power BI Desktop<br>
+Power Query – Data cleaning and transformation<br>
+DAX – Measures and KPI calculations<br>
+Power BI Visualizations – Charts, tables, cards and slicers<br>
 
 # 13. Data Preparation
 
 The data preparation process includes:
 
-Importing the document control dataset.
-Removing duplicate records.
-Handling blank/null values.
-Standardizing project and discipline names.
-Formatting date fields.
-Creating document status categories.
-Calculating document aging.
-Creating KPI-related fields.
-Creating DAX measures.
-Building relationships between relevant tables, where applicable.
+Importing the document control dataset.<br>
+Removing duplicate records.<br>
+Handling blank/null values.<br>
+Standardizing project and discipline names.<br>
+Formatting date fields.<br>
+Creating document status categories.<br>
+Calculating document aging.<br>
+Creating KPI-related fields.<br>
+Creating DAX measures.<br>
+Building relationships between relevant tables, where applicable.<br>
 
 # 14. Dashboard Navigation
 
@@ -305,52 +305,52 @@ Each page provides a different level of analysis, starting from management-level
 
 This dashboard is suitable for:
 
-Document Controllers
-Document Control Managers
-Project Managers
-Planning Engineers
-Project Controls Teams
-Engineering Managers
-QA/QC Teams
-Management
+Document Controllers<br>
+Document Control Managers<br>
+Project Managers<br>
+Planning Engineers<br>
+Project Controls Teams<br>
+Engineering Managers<br>
+QA/QC Teams<br>
+Management<br>
 
 # 16. Business Benefits
 
 The dashboard provides the following benefits:
 
-Centralized document control monitoring
-Faster identification of overdue documents
-Improved visibility of approval performance
-Project-wise performance comparison
-Discipline-wise documentation analysis
-Better monitoring of document aging
-KPI-based performance measurement
-Improved management reporting
-Reduced manual reporting effort
-Data-driven decision making
+Centralized document control monitoring<br>
+Faster identification of overdue documents<br>
+Improved visibility of approval performance<br>
+Project-wise performance comparison<br>
+Discipline-wise documentation analysis<br>
+Better monitoring of document aging<br>
+KPI-based performance measurement<br>
+Improved management reporting<br>
+Reduced manual reporting effort<br>
+Data-driven decision making<br>
 
 # 17. Assumptions
 
 The following assumptions are considered for dashboard reporting:
 
-Each document has a unique document number.
-Document status is maintained consistently.
-Submission and approval dates are available where applicable.
-Aging is calculated based on the relevant document processing date.
-KPI targets are predefined and can be modified according to project requirements.
-Dashboard results depend on the accuracy and completeness of the source data.
+Each document has a unique document number.<br>
+Document status is maintained consistently.<br>
+Submission and approval dates are available where applicable.<br>
+Aging is calculated based on the relevant document processing date.<br>
+KPI targets are predefined and can be modified according to project requirements.<br>
+Dashboard results depend on the accuracy and completeness of the source data.<br>
 
 # 18. How to Use the Dashboard
 
-Open the Power BI report.
-Select the required dashboard page.
-Use the slicers at the top of the page.
-Select Project, Client, Discipline, Month, or Status.
-Review the KPI cards.
-Analyze the charts and trends.
-Use detailed tables to identify individual documents.
-Use the Aging Analysis page to prioritize overdue documents.
-Clear filters to return to the overall dashboard view.
+Open the Power BI report.<br>
+Select the required dashboard page.<br>
+Use the slicers at the top of the page.<br>
+Select Project, Client, Discipline, Month, or Status.<br>
+Review the KPI cards.<br>
+Analyze the charts and trends.<br>
+Use detailed tables to identify individual documents.<br>
+Use the Aging Analysis page to prioritize overdue documents.<br>
+Clear filters to return to the overall dashboard view.<br>
 
 # 19. Conclusion
 
@@ -362,12 +362,8 @@ The dashboard enables document control teams and project management to identify 
 
 ## Project Deliverable
 
-Project: Document Controller Dashboard
-
-Tool: Microsoft Power BI
-
-Domain: Document Control / Project Controls
-
-Dashboard Type: Interactive Management Dashboard
-
-Primary Purpose: Document Status, KPI, Trend and Aging Monitoring
+Project: Document Controller Dashboard<br>
+Tool: Microsoft Power BI<br>
+Domain: Document Control / Project Controls<br>
+Dashboard Type: Interactive Management Dashboard<br>
+Primary Purpose: Document Status, KPI, Trend and Aging Monitoring<br>
