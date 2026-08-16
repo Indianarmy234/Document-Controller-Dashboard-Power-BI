@@ -6,17 +6,17 @@ The Document Controller Dashboard is an interactive Power BI dashboard designed 
 
 The dashboard provides management and document control teams with a centralized view of:
 
-Total documents
-Document approval status
-Document submissions
-Documents under review
-Rejected documents
-Overdue documents
-Project-wise document performance
-Discipline-wise document distribution
-Monthly submission and approval trends
-KPI performance
-Document aging analysis
+Total documents<br>
+Document approval status<br>
+Document submissions<br>
+Documents under review<br>
+Rejected documents<br>
+Overdue documents<br>
+Project-wise document performance<br>
+Discipline-wise document distribution<br>
+Monthly submission and approval trends<br>
+KPI performance<br>
+Document aging analysis<br>
 
 The dashboard is designed to support document control monitoring, management reporting, performance tracking, and timely decision-making.
 
@@ -25,15 +25,15 @@ The dashboard is designed to support document control monitoring, management rep
 The main objectives of this dashboard are:
 
 Monitor the overall document status across projects.<br>
-Track document submissions and approvals.
-Identify rejected and overdue documents.
-Analyze documentation performance by project.
-Analyze document distribution by discipline.
-Monitor monthly submission and approval trends.
-Track document control KPIs against predefined targets.
-Identify aging and delayed documents.
-Provide management with an interactive executive summary.
-Support document controllers in identifying areas requiring corrective action.
+Track document submissions and approvals.<br>
+Identify rejected and overdue documents.<br>
+Analyze documentation performance by project.<br>
+Analyze document distribution by discipline.<br>
+Monitor monthly submission and approval trends.<br>
+Track document control KPIs against predefined targets.<br>
+Identify aging and delayed documents.<br>
+Provide management with an interactive executive summary.<br>
+Support document controllers in identifying areas requiring corrective action.<br>
 
 
 # 3. Dashboard Pages
