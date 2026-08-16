@@ -24,7 +24,7 @@ The dashboard is designed to support document control monitoring, management rep
 
 The main objectives of this dashboard are:
 
-Monitor the overall document status across projects.
+Monitor the overall document status across projects.<br>
 Track document submissions and approvals.
 Identify rejected and overdue documents.
 Analyze documentation performance by project.
